@@ -12,7 +12,7 @@ a) ETL Pipeline
 b) ML Pipeline
 c) Flask Web App
 
-Requierments:
+Requirements for this ML project:
 You need following python packages: 
 * flask
 * plotly
